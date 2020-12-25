@@ -1,8 +1,8 @@
 # fishy-game
 eat small fish, avoid big fish against the clock
-uses python arcade:
-https://arcade.academy/index.html
-https://github.com/pythonarcade/arcade
+uses python arcade:  
+https://arcade.academy/index.html  
+https://github.com/pythonarcade/arcade 
 
 this is a prototype for when I make this game in unity.
 
@@ -15,5 +15,5 @@ this is a prototype for when I make this game in unity.
 - move - arrows/wasd
 
 # Some Details
-- movment is smothed out with finit acceleration and viscosity
+- movment is smoothed out with finit acceleration and viscosity
 - the larger you get, the more slowly you will accelerate
