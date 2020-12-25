@@ -13,4 +13,4 @@ this is a prototype for when I make this game in unity.
 
 # Some Details
 - movment is smothed out with finit acceleration and viscosity
-- the larger you get, the more sloly you will accelerate
+- the larger you get, the more slowly you will accelerate
