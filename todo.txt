@@ -1,0 +1,2 @@
+add large fast close fish generation indicator
+add timestamp to high scores
