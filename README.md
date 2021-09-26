@@ -7,7 +7,7 @@ https://github.com/pythonarcade/arcade
 this is a prototype for when I make this game in unity.
 
 <img src="https://github.com/LiorAvrahami/fishy-game/blob/main/example%20image.png" width="500">
-
+<img src="https://github.com/LiorAvrahami/fishy-game/blob/main/example%20play.gif" width="500">
 
 # Controlls
 - restart - R
