@@ -30,10 +30,6 @@ game:ResizeableWindow
 class MainGameView(arcade.View):
     """
     Main application class.
-
-    NOTE: Go ahead and delete the methods you don't need.
-    If you do need a method, delete the 'pass' and replace it
-    with your own code. Don't leave 'pass' in this program.
     """
 
     fish_sprites: arcade.SpriteList
@@ -145,8 +141,6 @@ class MainGameView(arcade.View):
     def on_update(self, delta_time):
         """
         All the logic to move, and the game logic goes here.
-        Normally, you'll call update() on the sprite lists that
-        need it.
         """
         # calculate delta_time
         if self.last_time is not None:
@@ -225,9 +219,6 @@ class MainGameView(arcade.View):
     def on_key_press(self, key, key_modifiers):
         """
         Called whenever a key on the keyboard is pressed.
-
-        For a full list of keys, see:
-        http://arcade.academy/arcade.key.html
         """
         self.controls_handler.on_keyboard_press(key, key_modifiers)
 
