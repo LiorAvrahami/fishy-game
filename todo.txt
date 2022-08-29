@@ -1,2 +1,3 @@
-add large fast close fish generation indicator
-add timestamp to high scores
+- add large fast close fish generation indicator
+- add timestamp to high scores
+- change scoreing so that winning many games in a row counts as a really good score
